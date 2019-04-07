@@ -7,8 +7,8 @@ advertisement through this system. Anyone can register to the system and they ca
 requirement. System users can search for their requirements according to their preferred
 characteristics.
 
-Functional Requirements,
-● Post the Advertisement.
-● Search the Brides and Bride Grooms according to age.
-● Automatically delete the Advertisement within 90 days.
-● Display each one’s details.
+Functional Requirements,                                                                                                                   
+● Post the Advertisement.                                                                                                                 
+● Search the Brides and Bride Grooms according to age.                                                                                     
+● Automatically delete the Advertisement within 90 days.                                                                                   
+● Display each one’s details.                                                                                                              
