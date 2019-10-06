@@ -1,11 +1,6 @@
 Project Name: Marriage proposal web application
 
-Description: We are going to develop a web application for marriage proposals in order to help
-the ones who are searching for their life partner. In this system users can enter/add their details in
-their own profiles which can be viewed by other users. Users can display their own proposal
-advertisement through this system. Anyone can register to the system and they can satisfy their
-requirement. System users can search for their requirements according to their preferred
-characteristics.
+Description: We are going to develop a web application for marriage proposals in order to help the ones who are searching for their life partner. Nowadays people face lot of difficulties when finding a life partner. In this system users can enter/add their details in their own profiles which can be viewed by other users. Users can display their own proposal advertisement through this system. Anyone can register to the system and they can satisfy their requirement. System users can search for their requirements according to their preferred characteristics.This makes people's life easier.
 
 Functional Requirements,                                                                                                                   
 ● Post the Advertisement.                                                                                                                 
